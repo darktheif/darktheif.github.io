@@ -1,0 +1,7 @@
+Build a single-page lead generation website for a product coffee bucks — define the product, the audience, and the value prop.
+MUST-HAVES
+* A hero section with a clear headline, sub-headline, and primary CTA
+* A lead capture form (Name + Email + CTA button at minimum)
+* Form data must be stored — Google Sheets, or anything lightweight works.
+* At least one section that builds trust or explains value (features, how it works, social proof — your call)
+* A confirmation state shown to the user after successful form submission
